@@ -6,3 +6,6 @@ In this notebook I am showing How you can make AI chatbot from scratch using Pyt
 ## Tech Stacks Used
 *  Pytorch
 *  NLTK
+*  Neural Networks
+*  Bag of Words
+  
